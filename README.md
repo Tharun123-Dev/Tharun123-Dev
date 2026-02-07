@@ -7,6 +7,6 @@
 🚀 Portfolio: https://your-portfolio.vercel.app
 
 ## 👀 Profile Views
-![Profile Views](https://Tharun.com/ghpvc/?username=Tharun123-dev&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Tharun123-dev&color=blue)
 
 
