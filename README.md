@@ -19,7 +19,7 @@
 
 | 🎯 Project | 🛠️ Tech Stack | 🔥 Live Demo | 💾 GitHub |
 |------------|----------------|-------------|-----------|
-| **StudentHub**<br><small>Academic Management Platform</small> | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=yellow) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [![Demo](https://img.shields.io/badge/Live-Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](<ADD-LINK>) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](<ADD-LINK>) |
+| **StudentHub**<br><small>Academic Management Platform</small> | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=yellow) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [![Demo](https://img.shields.io/badge/Live-Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](<https://findpdf-ly9i.vercel.app/>) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](<ADD-LINK>) |
 | **Smart EV System**<br><small>Vehicle Management Dashboard</small> | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=yellow) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [![Demo](https://img.shields.io/badge/Live-Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](<ADD-LINK>) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](<ADD-LINK>) |
 | **Gym Tracker**<br><small>Fitness Management System</small> | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=yellow) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![DRF](https://img.shields.io/badge/DRF-00BCD4?style=for-the-badge&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | [![Demo](https://img.shields.io/badge/Live-Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](<ADD-LINK>) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](<ADD-LINK>) |
 | **Travel Planner**<br><small>Interactive Frontend App</small> | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [![Demo](https://img.shields.io/badge/Live-Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](<ADD-LINK>) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](<ADD-LINK>) |
@@ -32,20 +32,6 @@
 
 <div align="center">
 
-## ✨ Key Features Across Projects
-
-```mermaid
-graph TB
-    A[🔐 JWT Authentication] --> B[StudentHub]
-    A --> C[Gym Tracker]
-    D[📊 Admin Dashboards] --> B
-    D --> E[Smart EV System]
-    D --> F[AgriMart]
-    G[⚡ REST APIs] --> C
-    H[📱 Responsive Design] --> I[Travel Planner]
-    H --> J[Smart Canteen]
-    K[🎨 Modern UI/UX] --> I
-    K --> J
 
 
 
