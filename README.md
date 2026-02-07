@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Tharun123-dev&color=blue)
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharun-dev&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharun123-dev&show_icons=true)
 
 ![3D Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharun123-dev)
 
