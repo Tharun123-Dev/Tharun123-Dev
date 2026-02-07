@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tharun Nani
-<img src="https://avatars.githubusercontent.com/u/Tharun123-dev" width="150" />
+<img src="https://avatars.githubusercontent.com/Tharun123-dev" width="150" />
 
 🌱 Beginner Python Full Stack Developer  
 💻 Learning React, Django & GitHub  
