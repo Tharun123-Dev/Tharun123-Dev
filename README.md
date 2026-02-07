@@ -14,7 +14,6 @@
 
 ![3D Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharun123-dev)
 
-## 🐍 Contribution Snake
-![Snake](https://github.com/Tharun123-dev/Tharun123-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Tharun123-dev/Tharun123-dev/output/github-contribution-grid-snake.svg)
 
 
