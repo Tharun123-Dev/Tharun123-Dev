@@ -92,12 +92,17 @@ Enhanced Tech Stack
 
 
 <div align="center">
-Python            █████████░ 85%
-Django            ████████░░ 80%
-JavaScript        ████████░░ 80%
-React             ███████░░░ 75%
-MySQL             ███████░░░ 75%
-</div>
+
+## 🛤️ Skills Overview
+
+```mermaid
+graph TB
+    A[Frontend] --> B[React 75%]
+    A --> C[JavaScript 80%]
+    D[Backend] --> E[Django 80%]
+    D --> F[Python 85%]
+    G[Database] --> H[MySQL 75%]
+
 
 
 ## 📊 GitHub Activity
