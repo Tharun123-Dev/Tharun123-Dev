@@ -21,12 +21,7 @@
 
 ---
 
-## 👀 Profile Stats
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tharun123-dev&color=007ACC&style=for-the-badge" alt="Profile Views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun123-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=00D4AA&text_color=E6EDF3" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun123-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=E6EDF3" width="48%" />
-</div>
+
 
 ---
 
@@ -91,11 +86,54 @@ Enhanced Tech Stack
 <p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-667EEA?style=for-the-badge&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </p>
 📌 CI/CD pipelines, serverless deployment, cloud hosting, production monitoring.
 
-Additional Sections (Professional Polish)
-📱 State Management & Utilities
+## 🧠 Tech Stack Proficiency
 
-<p> <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-FF5C00?style=for-the-badge"/> </p>
-🎨 UI/UX Libraries
+### Frontend
+HTML5  
+<progress value="90" max="100"></progress>
+
+CSS3  
+<progress value="85" max="100"></progress>
+
+JavaScript  
+<progress value="80" max="100"></progress>
+
+React.js  
+<progress value="75" max="100"></progress>
+
+---
+
+### Backend
+Python  
+<progress value="85" max="100"></progress>
+
+Django  
+<progress value="80" max="100"></progress>
+
+Django REST Framework  
+<progress value="75" max="100"></progress>
+
+---
+
+### Database
+MySQL  
+<progress value="75" max="100"></progress>
+
+SQLite  
+<progress value="70" max="100"></progress>
+
+---
+
+### Tools & Workflow
+Git & GitHub  
+<progress value="80" max="100"></progress>
+
+Postman (API Testing)  
+<progress value="75" max="100"></progress>
+
+Deployment (Vercel / GitHub Pages)  
+<progress value="70" max="100"></progress>
+
 
 <p> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Headless%20UI-FFFFFF?style=for-the-badge&logo=headlessui&logoColor=black"/> </p>
 
