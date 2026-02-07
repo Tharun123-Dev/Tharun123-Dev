@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer; React+%26+Django+Enthusiast;Building+Production+Apps;Open+to+Fresher+Roles&font=Fira%20Code&center=true&pause=1000&size=28"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%26+Django+Enthusiast;Building+Production+Apps;Open+to+Fresher+Roles&font=Fira%20Code&center=true&pause=1000&size=28"/>
 </p>
 
 ---
