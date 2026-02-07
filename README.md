@@ -7,13 +7,16 @@
 **Frontend • Backend • React • Django | Hyderabad, India**
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun123-dev/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://react-portfolio-sigma-pink.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-ff6b6b?style=for-the-badge&logo=adobe-acrobat&logoColor=white)](https://github.com/Tharun123-Dev/Tharun123-Dev/raw/main/Tharun_Resume.pdf)
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-ff6b6b?style=for-the-badge&logo=adobe-acrobat&logoColor=white)](https://drive.google.com/file/d/1z1syup5yw_j2p3JXE2QjaUbkCBos2j4A/view?usp=sharing)
+
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%26+Django+Enthusiast;Building+Production+Apps;Open+to+Fresher+Roles&font=Fira%20Code&center=true&pause=1000&size=28"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer; React+%26+Django+Enthusiast;Building+Production+Apps;Open+to+Fresher+Roles&font=Fira%20Code&center=true&pause=1000&size=28"/>
 </p>
 
 ---
