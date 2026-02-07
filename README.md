@@ -90,11 +90,14 @@ Enhanced Tech Stack
 
 <p> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Headless%20UI-FFFFFF?style=for-the-badge&logo=headlessui&logoColor=black"/> </p>
 
+
+<div align="center">
 Python            █████████░ 85%
 Django            ████████░░ 80%
 JavaScript        ████████░░ 80%
 React             ███████░░░ 75%
 MySQL             ███████░░░ 75%
+</div>
 
 
 ## 📊 GitHub Activity
