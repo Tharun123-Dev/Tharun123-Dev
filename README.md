@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tharun Nani
+# 👋 Hi, I'm Tharun 
 <img src="https://avatars.githubusercontent.com/Tharun123-dev" width="150" />
 
 🌱 Beginner Python Full Stack Developer  
